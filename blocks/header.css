@@ -35,6 +35,11 @@
   margin: 64px auto 0;
 }
 
+.header__image-container_shadow {
+  background: rgba(0, 0, 0, 1);
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
+}
+
 .header__image {
   max-width: 984px;
   max-height: 615px;
