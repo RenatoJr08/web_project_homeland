@@ -21,12 +21,12 @@
   margin: 0;
 }
 
-.artist {
+.place__artist {
   grid-area: artist;
   align-self: self-end;
 }
 
-.artist__heading {
+.place__artist-heading {
   height: 15px;
   padding-bottom: 8px;
   font-weight: 400;
@@ -38,7 +38,7 @@
   margin: 0 auto;
 }
 
-.artist__name {
+.place__artist-name {
   margin: 0 auto;
   font-size: 18px;
   line-height: 22px;
