@@ -13,3 +13,14 @@ A página "De pátria para pátria" foi o quinto projeto realizado no programa d
 ### Link do site
 
 Link: https://RenatoJr08.github.io/web_project_homeland
+
+#### Projeto 6: Acrescentar novos conteúdos e funcionalidades
+
+O projeto 6 foi uma continuação do projeto 5 porem acrescentando melhorias, conteúdos e fazendo uso de novas propriedades para tornar o site mais adaptativo possível. A pagina passou de ter só uma breve introdução para ter mais fotos de lugares diferentes e também um resumo de algumas cidades do mundo e das suas culturas.
+
+##### Novos recursos acrescentados no projeto
+
+- Grid Layout
+- Trabalho com ramificação
+- sombras
+- gradientes (lineares e radiais)
